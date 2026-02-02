@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **desenvolvedor web apaixonado por tecnologia** com foco em me tornar um **FullStack Developer** completo. Atualmente estou aprimorando minhas habilidades em **JavaScript/TypeScript**, trabalhando com frameworks modernos como **React** e **Express**, e explorando o ecossistema **Node.js** para desenvolvimento de APIs, além de estudar banco de dados NoSQL, como foco no desenvolvimento de solução robustas para backend.
+Sou um **desenvolvedor web apaixonado por tecnologia** com foco em me tornar um **FullStack Developer** completo. Atualmente estou aprimorando minhas habilidades em **JavaScript/TypeScript**, bem como uso de frameworks modernos como **React** e **Express**, e explorando o ecossistema **Node.js** para desenvolvimento de APIs, além de estudar banco de dados NoSQL, como foco no desenvolvimento de solução robustas para backend.
 
 ```javascript
 const fabricio = {
