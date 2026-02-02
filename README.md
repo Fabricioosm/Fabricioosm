@@ -138,14 +138,3 @@ Um projeto desenvolvido como parte de um teste técnico, demonstrando habilidade
 
 ---
 
-<div align="center">
-
-### 🏆 Troféus GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fabricioosm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-
