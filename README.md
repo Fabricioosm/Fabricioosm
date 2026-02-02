@@ -134,11 +134,6 @@ Um projeto desenvolvido como parte de um teste técnico, demonstrando habilidade
 
 ---
 
-## 💭 Citação Favorita
-
-<div align="center">
-
-> *"A única forma de fazer um excelente trabalho é amar o que você faz."* — Steve Jobs
 
 </div>
 
