@@ -148,14 +148,4 @@ Um projeto desenvolvido como parte de um teste técnico, demonstrando habilidade
 
 ---
 
-<div align="center">
 
-### 👀 Visitantes do Perfil
-
-![Visitor Count](https://profile-counter.glitch.me/Fabricioosm/count.svg)
-
-### 💖 Obrigado pela visita!
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
-
-</div>
