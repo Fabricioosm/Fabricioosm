@@ -10,13 +10,13 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **desenvolvedor web apaixonado por tecnologia** com foco em me tornar um **FullStack Developer** completo. Atualmente estou aprimorando minhas habilidades em **JavaScript/TypeScript**, trabalhando com frameworks modernos como **React** e **Express**, e explorando o ecossistema **Node.js** para desenvolvimento de APIs robustas.
+Sou um **desenvolvedor web apaixonado por tecnologia** com foco em me tornar um **FullStack Developer** completo. Atualmente estou aprimorando minhas habilidades em **JavaScript/TypeScript**, trabalhando com frameworks modernos como **React** e **Express**, e explorando o ecossistema **Node.js** para desenvolvimento de APIs, além de estudar banco de dados NoSQL, como foco no desenvolvimento de solução robustas para backend.
 
 ```javascript
 const fabricio = {
     localização: "Santa Catarina, Brasil 🇧🇷",
     formação: "Análise e Desenvolvimento de Sistemas",
-    foco_atual: ["JavaScript", "TypeScript", "React", "Node.js"],
+    foco_atual: ["JavaScript", "TypeScript", "React", "Node.js", "NoSQL"],
     objetivo: "Desenvolver soluções criativas e funcionais",
     status: "Buscando oportunidades de estágio 🎯"
 };
