@@ -154,14 +154,6 @@ Um projeto desenvolvido como parte de um teste técnico, demonstrando habilidade
 
 ---
 
-## 🎯 Metas para 2026
-
-- [x] Criar portfólio pessoal
-- [ ] Contribuir com projetos open source
-- [ ] Conseguir oportunidade de estágio
-- [ ] Dominar React e Node.js
-- [ ] Construir 5+ projetos completos
-- [ ] Participar de hackathons
 
 ---
 
