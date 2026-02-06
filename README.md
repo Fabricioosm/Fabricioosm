@@ -1,11 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Fabrício%20Medeiros&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20FullStack%20em%20Formação&descAlignY=55&descAlign=50)
+# 👋 Olá! Eu sou Fabrício Medeiros
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Olá!+Seja+bem-vindo+ao+meu+perfil!+👋;Desenvolvedor+Web+apaixonado+por+tecnologia;Focado+em+JavaScript+%7C+TypeScript+%7C+React;Sempre+em+busca+de+novos+desafios!)](https://git.io/typing-svg)
+### Desenvolvedor FullStack em Formação
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+apaixonado+por+tecnologia;Focado+em+JavaScript+%7C+TypeScript+%7C+React;Sempre+em+busca+de+novos+desafios!)](https://git.io/typing-svg)
 
 </div>
-
 ---
 
 ## 🚀 Sobre Mim
